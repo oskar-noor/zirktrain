@@ -3,4 +3,5 @@ node 'peachy.stage.zirktrain.ee' {
   include peachy::athena_red
   include peachy::zeus_blue
   include peachy::zeus_yellow
+  include peachy::hera_purple
 }
